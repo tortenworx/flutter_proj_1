@@ -93,7 +93,7 @@ class Contact extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  'Student - Olivarez College Tagaytay',
+                                  'Student - City College of Tagaytay',
                                   style: GoogleFonts.workSans(
                                     fontSize: 12,
                                     fontWeight: FontWeight.w300,
