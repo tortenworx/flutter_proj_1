@@ -87,7 +87,7 @@ class Contact extends StatelessWidget {
                                 Text(
                                   'April Love Eniquez',
                                   style: GoogleFonts.outfit(
-                                    fontSize: 32,
+                                    fontSize: 28,
                                     fontWeight: FontWeight.w500,
                                     color: Color(0xFFFFFFFF),
                                   ),
